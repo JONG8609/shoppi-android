@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
+ext {
+    navVersion = '2.5.3'
+}
 rootProject.name = "shoppi-android"
 include ':app'
