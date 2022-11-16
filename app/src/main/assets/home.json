@@ -1,0 +1,17 @@
+{
+  "title": {
+    "text": "JONG님, 이런 상품 어때요?",
+    "icon_url" : ""
+  },
+  "top_banners": [
+    {
+      "background_image_url": "",
+      "badge": {
+        "label": "기획전",
+        "background_color": "#52514d"
+      },
+      "label" : "따스한 겨울\n준비하기",
+      "product_detail" :
+    }
+  ]
+}
